@@ -81,7 +81,7 @@ public class TiendaConDescuentos {
                 }
             }
             else if (opcion == 4) {
-                System.out.println("Gracias por su compra. ¡Hasta pronto!");
+                System.out.println("Gracias por su visita. ¡Hasta pronto!");
             }
             else {
                 System.out.println("Opcion no valida, por favor seleccione una opcion de la 1 a la 4");
